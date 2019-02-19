@@ -20,6 +20,7 @@
     "react": "^16.8.1",
     "react-dom": "^16.8.1",
     "react-jss": "^8.6.1",
+    "react-on-screen": "^2.1.1",
     "react-reveal": "^1.2.2",
     "react-wufoo-embed": "^1.0.0",
     "uuid": "^3.3.2"
